@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/charts.tsx","./src/insights.ts","./src/main.tsx","./src/program.ts","./src/store.ts","./src/ui.tsx","./src/vite-env.d.ts","./src/views/analyse.tsx","./src/views/fuel.tsx","./src/views/log.tsx","./src/views/plan.tsx","./src/views/sessiondetail.tsx","./src/views/sessionrunner.tsx","./src/views/today.tsx"],"version":"5.9.3"}
